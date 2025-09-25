@@ -7,7 +7,7 @@ namespace ControleDeEstoqueDeProdutos
 {
     public partial class Form1 : Form
     {
-        // Alterar para usuário, senha e nome do seu banco PostgreSQL
+
         private string connString = "Host=localhost;Port=5432;Username=postgres;Password=suasenha;Database=seubanco";
 
         public Form1()
@@ -16,7 +16,6 @@ namespace ControleDeEstoqueDeProdutos
             CarregarProdutos();
         }
 
-        // Carregar produtos no DataGridView
         private void CarregarProdutos()
         {
             using (var conn = new NpgsqlConnection(connString))
@@ -32,7 +31,6 @@ namespace ControleDeEstoqueDeProdutos
             }
         }
 
-        // Cadastrar produto
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
             using (var conn = new NpgsqlConnection(connString))
@@ -51,7 +49,7 @@ namespace ControleDeEstoqueDeProdutos
             CarregarProdutos();
         }
 
-        // Incrementar quantidade
+
         private void btnIncrementar_Click(object sender, EventArgs e)
         {
             if (dataGridViewProdutos.SelectedRows.Count > 0)
@@ -75,7 +73,6 @@ namespace ControleDeEstoqueDeProdutos
             }
         }
 
-        // Decrementar quantidade
         private void btnDecrementar_Click(object sender, EventArgs e)
         {
             if (dataGridViewProdutos.SelectedRows.Count > 0)
