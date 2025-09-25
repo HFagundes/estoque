@@ -1,0 +1,7 @@
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\Controle de estoque de produtos.csproj.AssemblyReference.cache
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\ControleEstoque.Form1.resources
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\Controle de estoque de produtos.csproj.GenerateResource.cache
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\Controle de estoque de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\Controle de estoque de produtos.AssemblyInfoInputs.cache
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\Controle de estoque de produtos.AssemblyInfo.cs
+C:\Users\vaspt\source\repos\Controle de estoque de produtos\Controle de estoque de produtos\obj\Debug\net8.0-windows\Controle de estoque de produtos.csproj.CoreCompileInputs.cache
